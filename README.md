@@ -1,7 +1,7 @@
 # OmniChess Reader ♟️📸
 
 <p align="center">
-  <img src="playstore/icon_512.png" alt="OmniChess Reader Logo" width="128" height="128" style="border-radius: 20%;" />
+  <img src="app/src/androidMain/res/drawable/ic_launcher_foreground.png" alt="OmniChess Reader Logo" width="128" height="128" style="border-radius: 20%;" />
 </p>
 
 <p align="center">
