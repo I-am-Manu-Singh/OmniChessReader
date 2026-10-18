@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mg_1",
+    "name": "Knight Outpost on d5",
+    "category": "Positional Outposts",
+    "fen": "r1bq1rk1/pp2ppbp/2np1np1/8/3NP3/2N1BP2/PPPQ2PP/R3KB1R w KQ - 3 9",
+    "keyMoves": ["d4c6", "b2c6", "e3d4"],
+    "description": "An outpost is a square protected by your pawn that cannot be attacked by enemy pawns. Knights thrive on outposts, especially on d5 or e5.",
+    "explanation": "White establishes central control and targets weak pawn structures."
+  },
+  {
+    "id": "mg_2",
+    "name": "Open File & Doubled Rooks",
+    "category": "File Control",
+    "fen": "2r2rk1/pp1qbppp/4pn2/3p4/3P4/2N1PN2/PP3PPP/R2Q1RK1 w - - 0 12",
+    "keyMoves": ["a1c1", "f8c8", "d1b3"],
+    "description": "Rooks require open files to penetrate enemy territory. Doubling rooks on an open c-file creates overwhelming pressure.",
+    "explanation": "Controlling entry points on an open file enables 7th rank invasions."
+  },
+  {
+    "id": "mg_3",
+    "name": "Greek Gift Sacrifice (Bxh7+)",
+    "category": "Attacking Motifs",
+    "fen": "r1b2rk1/ppq1bppp/2n1pn2/2pp2B1/3PP3/2PB1N2/PP1N1PPP/R2Q1RK1 w - - 0 9",
+    "keyMoves": ["e4e5", "f6d7", "d3h7"],
+    "description": "The classic bishop sacrifice on h7 tears open the enemy king shelter when white has strong knight and queen backing.",
+    "explanation": "Bxh7+ followed by Ng5+ and Qh5 leads to a decisive mating attack."
+  },
+  {
+    "id": "mg_4",
+    "name": "Opposite Side Castling Pawn Storm",
+    "category": "Pawn Assault",
+    "fen": "2kr1b1r/pppn1ppp/q3pn2/8/3P2b1/2N1BN2/PPP1BPPP/R2Q1RK1 w - - 0 10",
+    "keyMoves": ["h2h3", "g4f5", "g2g4"],
+    "description": "When kings castle on opposite flanks, launching a pawn storm toward the enemy king generates open files for your heavy pieces.",
+    "explanation": "Speed is crucial in opposite-side castling races."
+  },
+  {
+    "id": "mg_5",
+    "name": "Undermining Pawn Chain Base",
+    "category": "Pawn Structure",
+    "fen": "r1bqk2r/pp2bppp/2n1pn2/2ppP3/3P4/2P2N2/PP1N1PPP/R1BQKB1R w KQkq - 1 7",
+    "keyMoves": ["e5f6", "e7f6", "d4c5"],
+    "description": "Pawn chains restrict movement. Attacking the base of the chain collapses the opponent's entire space advantage.",
+    "explanation": "Challenging the central apex or base frees active piece play."
+  },
+  {
+    "id": "mg_6",
+    "name": "Minority Attack on Queenside",
+    "category": "Strategic Planning",
+    "fen": "r1bq1rk1/pp3ppp/2n1pn2/2pp4/3P4/2PBPN2/PP1N1PPP/R2Q1RK1 w - - 0 10",
+    "keyMoves": ["b2b4", "c5b4", "c3b4"],
+    "description": "Advancing two pawns against three on the queenside creates backward pawns and isolated weak targets.",
+    "explanation": "The minority attack creates structural weaknesses in the opponent's camp."
+  },
+  {
+    "id": "mg_7",
+    "name": "Bishop Pair Dominance",
+    "category": "Piece Advantage",
+    "fen": "r4rk1/pp1b1ppp/2n1pn2/2qp4/8/2PBPN2/PP1N1PPP/R2Q1RK1 w - - 0 11",
+    "keyMoves": ["e3e4", "d5e4", "d2e4"],
+    "description": "Having both bishops in an open position allows long-range slicing control across diagonal diagonals.",
+    "explanation": "Opening the board maximizes the scope of the bishop pair."
+  },
+  {
+    "id": "mg_8",
+    "name": "Isolated Queen Pawn (IQP)",
+    "category": "Central Dynamics",
+    "fen": "r2q1rk1/pp1nbppp/4pn2/3p4/3P4/2N1PN2/PP3PPP/R1BQ1RK1 w - - 0 10",
+    "keyMoves": ["d4d5", "e6d5", "c3d5"],
+    "description": "An isolated d-pawn offers piece activity and space in exchange for long-term weakness if blocked.",
+    "explanation": "The player with the IQP must attack before endgames are reached."
+  }
+]

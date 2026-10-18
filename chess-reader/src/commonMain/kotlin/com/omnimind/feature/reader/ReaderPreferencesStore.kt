@@ -1,0 +1,100 @@
+package com.creativeblisslabs.omnimind.feature.reader
+import androidx.compose.material3.MaterialTheme
+
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.setValue
+
+data class ReaderPreferences(
+    val overrideBookFont: Boolean = false,
+    val defaultFontSize: Int = 18,
+    val minFontSize: Int = 12,
+    val fontWeightVal: Int = 400,
+    val fontFaceSerif: String = "Merriweather",
+    val fontFaceSans: String = "Inter",
+    val fontFaceMono: String = "Fira Code",
+    val overrideBookLayout: Boolean = false,
+    val useBookLayout: Boolean = true,
+    val paragraphMargin: Float = 1.2f,
+    val lineSpacing: Float = 1.4f,
+    val wordSpacing: Int = 0,
+    val letterSpacing: Int = 0,
+    val textIndent: Int = 0,
+    val fullJustification: Boolean = false,
+    val hyphenation: Boolean = false,
+    val activeColorTheme: String = "Default",
+    val themeMode: String = "Dark",
+    val invertImageDark: Boolean = true,
+    val overrideBookColor: Boolean = false,
+    val activeBackgroundIndex: Int = 0,
+    val highlightColorSelection: String = "Yellow",
+    val highlightOpacity: Float = 0.4f,
+    val enableReadingRuler: Boolean = false,
+    val linesToHighlight: Int = 2,
+    val rulerColor: String = "Yellow",
+    val rulerOpacity: Float = 0.5f,
+    val enableCodeHighlighting: Boolean = false,
+    val codeLanguageSelection: String = "Auto-Detect",
+    val eInkMode: Boolean = false,
+    val topMargin: Int = 16,
+    val bottomMargin: Int = 16,
+    val leftMargin: Int = 16,
+    val rightMargin: Int = 16,
+    val showHeader: Boolean = true,
+    val showFooter: Boolean = true,
+    val showRemainingTime: Boolean = true,
+    val showRemainingPages: Boolean = true,
+    val showReadingProgress: Boolean = true,
+    val progressStyle: String = "Page Number",
+    val showProgressBar: Boolean = true,
+    val showCurrentTime: Boolean = true,
+    val showBatteryStatus: Boolean = true,
+    val showBatteryPercentage: Boolean = true,
+    val orientationSelected: String = "Portrait",
+    val writingMode: String = "Horizontal",
+    val columnGap: Int = 0,
+    val maxColumns: Int = 1,
+    val maxColumnWidth: Int = 720,
+    val maxColumnHeight: Int = 1440,
+    val customContentCss: String = "",
+    val customReaderUiCss: String = "",
+    val pagingAnimation: Boolean = true,
+    val animationStyle: String = "Push Fade",
+    val systemScreenBrightness: Boolean = false,
+    val brightnessValue: Int = 100,
+    val autoBrightness: Boolean = true,
+    val isScrolledMode: Boolean = false,
+    val isAutoScrolling: Boolean = false,
+    val autoscrollSpeed: Float = 2.0f,
+    val autoscrollMode: String = "Line by Line",
+    val isParagraphMode: Boolean = false,
+    val isSpeedReading: Boolean = false,
+    val isAutoMode: Boolean = false,
+    val swipeBrightness: Boolean = true,
+    val keepScreenAwake: Boolean = true,
+    val colorEInkMode: Boolean = false,
+    val allowJavaScript: Boolean = false,
+    val wordLensEnabled: Boolean = false,
+    val enableTranslation: Boolean = false,
+    val showSourceText: Boolean = true,
+    val ttsTextOption: String = "Source and Translated",
+    val translationService: String = "Azure Translator",
+    val translateToLanguage: String = "English",
+    val ttsGranularity: String = "Word",
+    val ttsStyle: String = "Highlighter",
+    val ttsColorTheme: String = "Yellow",
+    val ttsUpdateFrequency: String = "Every Sentence",
+    val ttsLanguage: String = "en-US",
+    val ttsSpeed: Float = 1.0f,
+    val ttsPitch: Float = 1.0f,
+    val ttsVoice: String = "default"
+)
+
+object ReaderPreferencesStore {
+    var preferences by mutableStateOf(ReaderPreferences())
+        private set
+
+    fun update(block: ReaderPreferences.() -> ReaderPreferences) {
+        preferences = preferences.block()
+    }
+}
