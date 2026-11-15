@@ -7,12 +7,18 @@ plugins {
 }
 
 kotlin {
+    jvmToolchain(17)
+
     androidTarget {
         compilerOptions {
             jvmTarget.set(org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_17)
         }
     }
-    jvm("desktop")
+    jvm("desktop") {
+        compilerOptions {
+            jvmTarget.set(org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_17)
+        }
+    }
     iosX64()
     iosArm64()
     iosSimulatorArm64()
@@ -49,8 +55,6 @@ kotlin {
             implementation(libs.coil.compose)
             implementation(libs.coil.network.ktor)
             implementation(libs.coil.svg)
-
-            api(project(":chess-reader"))
         }
         commonTest.dependencies {
             implementation(libs.kotlin.test)

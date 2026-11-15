@@ -1,74 +1,2402 @@
 [
   {
-    "id": "mg_1",
-    "name": "Knight Outpost on d5",
-    "category": "Positional Outposts",
-    "fen": "r1bq1rk1/pp2ppbp/2np1np1/8/3NP3/2N1BP2/PPPQ2PP/R3KB1R w KQ - 3 9",
-    "keyMoves": ["d4c6", "b2c6", "e3d4"],
-    "description": "An outpost is a square protected by your pawn that cannot be attacked by enemy pawns. Knights thrive on outposts, especially on d5 or e5.",
-    "explanation": "White establishes central control and targets weak pawn structures."
+    "id": "mg_topic_1",
+    "title": "Amar Opening: Paris Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Amar Opening: Paris Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp2ppp/8/3pp3/5P2/6PN/PPPPP2P/RNBQKB1R b KQkq -",
+    "keyMoves": [
+      "g1h3",
+      "d7d5",
+      "g2g3",
+      "e7e5"
+    ],
+    "explanations": [
+      "Amar Opening: Paris Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nh3 d5 2. g3 e5 3. f4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
   },
   {
-    "id": "mg_2",
-    "name": "Open File & Doubled Rooks",
-    "category": "File Control",
-    "fen": "2r2rk1/pp1qbppp/4pn2/3p4/3P4/2N1PN2/PP3PPP/R2Q1RK1 w - - 0 12",
-    "keyMoves": ["a1c1", "f8c8", "d1b3"],
-    "description": "Rooks require open files to penetrate enemy territory. Doubling rooks on an open c-file creates overwhelming pressure.",
-    "explanation": "Controlling entry points on an open file enables 7th rank invasions."
+    "id": "mg_topic_2",
+    "title": "Amar Opening: Paris Gambit, Gent Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Amar Opening: Paris Gambit, Gent Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rn1qkbnr/ppp2ppp/8/3p4/8/6PB/PPPPP3/RNBQ1RK1 b kq -",
+    "keyMoves": [
+      "g1h3",
+      "d7d5",
+      "g2g3",
+      "e7e5"
+    ],
+    "explanations": [
+      "Amar Opening: Paris Gambit, Gent Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nh3 d5 2. g3 e5 3. f4 Bxh3 4. Bxh3 exf4 5. O-O fxg3 6. hxg3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
   },
   {
-    "id": "mg_3",
-    "name": "Greek Gift Sacrifice (Bxh7+)",
-    "category": "Attacking Motifs",
-    "fen": "r1b2rk1/ppq1bppp/2n1pn2/2pp2B1/3PP3/2PB1N2/PP1N1PPP/R2Q1RK1 w - - 0 9",
-    "keyMoves": ["e4e5", "f6d7", "d3h7"],
-    "description": "The classic bishop sacrifice on h7 tears open the enemy king shelter when white has strong knight and queen backing.",
-    "explanation": "Bxh7+ followed by Ng5+ and Qh5 leads to a decisive mating attack."
+    "id": "mg_topic_3",
+    "title": "Amsterdam Attack",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Amsterdam Attack (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkb1r/ppp2ppp/2np1n2/4p3/2P5/1PN1P3/P2P1PPP/R1BQKBNR w KQkq -",
+    "keyMoves": [
+      "e2e3",
+      "e7e5",
+      "c2c4",
+      "d7d6"
+    ],
+    "explanations": [
+      "Amsterdam Attack (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. e3 e5 2. c4 d6 3. Nc3 Nc6 4. b3 Nf6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
   },
   {
-    "id": "mg_4",
-    "name": "Opposite Side Castling Pawn Storm",
-    "category": "Pawn Assault",
-    "fen": "2kr1b1r/pppn1ppp/q3pn2/8/3P2b1/2N1BN2/PPP1BPPP/R2Q1RK1 w - - 0 10",
-    "keyMoves": ["h2h3", "g4f5", "g2g4"],
-    "description": "When kings castle on opposite flanks, launching a pawn storm toward the enemy king generates open files for your heavy pieces.",
-    "explanation": "Speed is crucial in opposite-side castling races."
+    "id": "mg_topic_7",
+    "title": "Barnes Opening: Fool's Mate",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Barnes Opening: Fool's Mate (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnb1kbnr/pppp1ppp/8/4p3/6Pq/5P2/PPPPP2P/RNBQKBNR w KQkq -",
+    "keyMoves": [
+      "f2f3",
+      "e7e5",
+      "g2g4",
+      "d8h4"
+    ],
+    "explanations": [
+      "Barnes Opening: Fool's Mate (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f3 e5 2. g4 Qh4#.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
   },
   {
-    "id": "mg_5",
-    "name": "Undermining Pawn Chain Base",
-    "category": "Pawn Structure",
-    "fen": "r1bqk2r/pp2bppp/2n1pn2/2ppP3/3P4/2P2N2/PP1N1PPP/R1BQKB1R w KQkq - 1 7",
-    "keyMoves": ["e5f6", "e7f6", "d4c5"],
-    "description": "Pawn chains restrict movement. Attacking the base of the chain collapses the opponent's entire space advantage.",
-    "explanation": "Challenging the central apex or base frees active piece play."
+    "id": "mg_topic_8",
+    "title": "Barnes Opening: Gedult Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Barnes Opening: Gedult Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp1pp1p/6p1/8/3Pp3/2P2P2/PP4PP/RNBQKBNR b KQkq -",
+    "keyMoves": [
+      "f2f3",
+      "d7d5",
+      "e2e4",
+      "g7g6"
+    ],
+    "explanations": [
+      "Barnes Opening: Gedult Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f3 d5 2. e4 g6 3. d4 dxe4 4. c3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
   },
   {
-    "id": "mg_6",
-    "name": "Minority Attack on Queenside",
-    "category": "Strategic Planning",
-    "fen": "r1bq1rk1/pp3ppp/2n1pn2/2pp4/3P4/2PBPN2/PP1N1PPP/R2Q1RK1 w - - 0 10",
-    "keyMoves": ["b2b4", "c5b4", "c3b4"],
-    "description": "Advancing two pawns against three on the queenside creates backward pawns and isolated weak targets.",
-    "explanation": "The minority attack creates structural weaknesses in the opponent's camp."
+    "id": "mg_topic_9",
+    "title": "Barnes Opening: Gedult Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Barnes Opening: Gedult Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppppp1pp/8/8/4p3/2N2P2/PPPP2PP/R1BQKBNR b KQkq -",
+    "keyMoves": [
+      "f2f3",
+      "f7f5",
+      "e2e4",
+      "f5e4"
+    ],
+    "explanations": [
+      "Barnes Opening: Gedult Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f3 f5 2. e4 fxe4 3. Nc3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
   },
   {
-    "id": "mg_7",
-    "name": "Bishop Pair Dominance",
-    "category": "Piece Advantage",
-    "fen": "r4rk1/pp1b1ppp/2n1pn2/2qp4/8/2PBPN2/PP1N1PPP/R2Q1RK1 w - - 0 11",
-    "keyMoves": ["e3e4", "d5e4", "d2e4"],
-    "description": "Having both bishops in an open position allows long-range slicing control across diagonal diagonals.",
-    "explanation": "Opening the board maximizes the scope of the bishop pair."
+    "id": "mg_topic_13",
+    "title": "Creepy Crawly Formation: Classical Defense",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Creepy Crawly Formation: Classical Defense (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp2ppp/8/3pp3/8/P6P/1PPPPPP1/RNBQKBNR w KQkq -",
+    "keyMoves": [
+      "h2h3",
+      "d7d5",
+      "a2a3",
+      "e7e5"
+    ],
+    "explanations": [
+      "Creepy Crawly Formation: Classical Defense (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. h3 d5 2. a3 e5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
   },
   {
-    "id": "mg_8",
-    "name": "Isolated Queen Pawn (IQP)",
-    "category": "Central Dynamics",
-    "fen": "r2q1rk1/pp1nbppp/4pn2/3p4/3P4/2N1PN2/PP3PPP/R1BQ1RK1 w - - 0 10",
-    "keyMoves": ["d4d5", "e6d5", "c3d5"],
-    "description": "An isolated d-pawn offers piece activity and space in exchange for long-term weakness if blocked.",
-    "explanation": "The player with the IQP must attack before endgames are reached."
+    "id": "mg_topic_14",
+    "title": "Formation: Hippopotamus Attack",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Formation: Hippopotamus Attack (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bq1rk1/ppp2ppp/2nb1n2/3pp3/8/PPPPPPP1/7P/RNBQKBNR b KQ -",
+    "keyMoves": [
+      "a2a3",
+      "e7e5",
+      "b2b3",
+      "d7d5"
+    ],
+    "explanations": [
+      "Formation: Hippopotamus Attack (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. a3 e5 2. b3 d5 3. c3 Nf6 4. d3 Nc6 5. e3 Bd6 6. f3 O-O 7. g3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_15",
+    "title": "Formation: Shy Attack",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Formation: Shy Attack (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bq1rk1/ppp2ppp/2nb1n2/3pp3/8/P2PP1PP/1PPN1PB1/R1BQK1NR b KQ -",
+    "keyMoves": [
+      "a2a3",
+      "e7e5",
+      "g2g3",
+      "d7d5"
+    ],
+    "explanations": [
+      "Formation: Shy Attack (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. a3 e5 2. g3 d5 3. Bg2 Nf6 4. d3 Nc6 5. Nd2 Bd6 6. e3 O-O 7. h3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_22",
+    "title": "Grob Opening: Grob Gambit Declined",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Grob Opening: Grob Gambit Declined (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pp2pppp/2p5/3p4/6P1/8/PPPPPPBP/RNBQK1NR w KQkq -",
+    "keyMoves": [
+      "g2g4",
+      "d7d5",
+      "f1g2",
+      "c7c6"
+    ],
+    "explanations": [
+      "Grob Opening: Grob Gambit Declined (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g4 d5 2. Bg2 c6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_23",
+    "title": "Grob Opening: Grob Gambit, Basman Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Grob Opening: Grob Gambit, Basman Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp1ppp1/8/3p3P/8/8/PPPPPPBP/RNBQK1NR b KQkq -",
+    "keyMoves": [
+      "g2g4",
+      "d7d5",
+      "f1g2",
+      "h7h5"
+    ],
+    "explanations": [
+      "Grob Opening: Grob Gambit, Basman Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g4 d5 2. Bg2 h5 3. gxh5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_24",
+    "title": "Grob Opening: Grob Gambit, Fritz Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Grob Opening: Grob Gambit, Fritz Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rn1qkbnr/ppp1pppp/8/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR b KQkq -",
+    "keyMoves": [
+      "g2g4",
+      "d7d5",
+      "f1g2",
+      "c8g4"
+    ],
+    "explanations": [
+      "Grob Opening: Grob Gambit, Fritz Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g4 d5 2. Bg2 Bxg4 3. c4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_25",
+    "title": "Grob Opening: Grob Gambit, Fritz Gambit, Romford Countergambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Grob Opening: Grob Gambit, Fritz Gambit, Romford Countergambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "q3kbnr/p1pnpppp/8/8/2Pp2b1/8/PP1PPP1P/RNBQK1NR w KQk -",
+    "keyMoves": [
+      "g2g4",
+      "d7d5",
+      "f1g2",
+      "c8g4"
+    ],
+    "explanations": [
+      "Grob Opening: Grob Gambit, Fritz Gambit, Romford Countergambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g4 d5 2. Bg2 Bxg4 3. c4 d4 4. Bxb7 Nd7 5. Bxa8 Qxa8.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_26",
+    "title": "Grob Opening: Grob Gambit, Keres Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Grob Opening: Grob Gambit, Keres Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp2ppp/8/3p4/3p2P1/2P5/PP2PPBP/RNBQK1NR b KQkq -",
+    "keyMoves": [
+      "g2g4",
+      "d7d5",
+      "f1g2",
+      "e7e5"
+    ],
+    "explanations": [
+      "Grob Opening: Grob Gambit, Keres Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g4 d5 2. Bg2 e5 3. d4 exd4 4. c3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_27",
+    "title": "Grob Opening: Grob Gambit, Richter-Grob Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Grob Opening: Grob Gambit, Richter-Grob Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pp2pppp/2p5/8/2p3P1/1P6/P2PPPBP/RNBQK1NR b KQkq -",
+    "keyMoves": [
+      "g2g4",
+      "d7d5",
+      "f1g2",
+      "c7c6"
+    ],
+    "explanations": [
+      "Grob Opening: Grob Gambit, Richter-Grob Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g4 d5 2. Bg2 c6 3. c4 dxc4 4. b3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_28",
+    "title": "Grob Opening: Keene Defense",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Grob Opening: Keene Defense (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pp3ppp/2p5/3pp3/6P1/7P/PPPPPPB1/RNBQK1NR w KQkq -",
+    "keyMoves": [
+      "g2g4",
+      "d7d5",
+      "h2h3",
+      "e7e5"
+    ],
+    "explanations": [
+      "Grob Opening: Keene Defense (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g4 d5 2. h3 e5 3. Bg2 c6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_29",
+    "title": "Grob Opening: Keene Defense, Main Line",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Grob Opening: Keene Defense, Main Line (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqk2r/pp2nppp/2pb4/3p4/2PPp1P1/2N4P/PP2PPB1/R1BQK1NR w KQkq -",
+    "keyMoves": [
+      "g2g4",
+      "d7d5",
+      "h2h3",
+      "e7e5"
+    ],
+    "explanations": [
+      "Grob Opening: Keene Defense, Main Line (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g4 d5 2. h3 e5 3. Bg2 c6 4. d4 e4 5. c4 Bd6 6. Nc3 Ne7.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_30",
+    "title": "Grob Opening: London Defense",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Grob Opening: London Defense (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/6P1/7P/PPPPPP2/RNBQKBNR w KQkq -",
+    "keyMoves": [
+      "g2g4",
+      "e7e5",
+      "h2h3",
+      "b8c6"
+    ],
+    "explanations": [
+      "Grob Opening: London Defense (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g4 e5 2. h3 Nc6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_31",
+    "title": "Grob Opening: Romford Countergambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Grob Opening: Romford Countergambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rn1qkbnr/ppp1pppp/8/8/2Pp2b1/8/PP1PPPBP/RNBQK1NR w KQkq -",
+    "keyMoves": [
+      "g2g4",
+      "d7d5",
+      "f1g2",
+      "c8g4"
+    ],
+    "explanations": [
+      "Grob Opening: Romford Countergambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g4 d5 2. Bg2 Bxg4 3. c4 d4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_32",
+    "title": "Grob Opening: Spike Attack",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Grob Opening: Spike Attack (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pp2pppp/2p5/3p2P1/8/8/PPPPPPBP/RNBQK1NR b KQkq -",
+    "keyMoves": [
+      "g2g4",
+      "d7d5",
+      "f1g2",
+      "c7c6"
+    ],
+    "explanations": [
+      "Grob Opening: Spike Attack (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g4 d5 2. Bg2 c6 3. g5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_33",
+    "title": "Grob Opening: Spike, Hurst Attack",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Grob Opening: Spike, Hurst Attack (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp2ppp/8/3pp3/2P3P1/8/PP1PPPBP/RNBQK1NR b KQkq -",
+    "keyMoves": [
+      "g2g4",
+      "e7e5",
+      "f1g2",
+      "d7d5"
+    ],
+    "explanations": [
+      "Grob Opening: Spike, Hurst Attack (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g4 e5 2. Bg2 d5 3. c4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_34",
+    "title": "Grob Opening: Zilbermints Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Grob Opening: Zilbermints Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp1pppp/8/8/4p1P1/2N5/PPPP1P1P/R1BQKBNR b KQkq -",
+    "keyMoves": [
+      "g2g4",
+      "d7d5",
+      "e2e4",
+      "d5e4"
+    ],
+    "explanations": [
+      "Grob Opening: Zilbermints Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g4 d5 2. e4 dxe4 3. Nc3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_35",
+    "title": "Grob Opening: Zilbermints Gambit, Schiller Defense",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Grob Opening: Zilbermints Gambit, Schiller Defense (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp1ppp1/8/7p/4p1P1/2N5/PPPP1P1P/R1BQKBNR w KQkq -",
+    "keyMoves": [
+      "g2g4",
+      "d7d5",
+      "e2e4",
+      "d5e4"
+    ],
+    "explanations": [
+      "Grob Opening: Zilbermints Gambit, Schiller Defense (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g4 d5 2. e4 dxe4 3. Nc3 h5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_36",
+    "title": "Grob Opening: Zilbermints Gambit, Zilbermints-Hartlaub Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Grob Opening: Zilbermints Gambit, Zilbermints-Hartlaub Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp2ppp/8/4p3/4p1P1/2NP4/PPP2P1P/R1BQKBNR b KQkq -",
+    "keyMoves": [
+      "g2g4",
+      "d7d5",
+      "e2e4",
+      "d5e4"
+    ],
+    "explanations": [
+      "Grob Opening: Zilbermints Gambit, Zilbermints-Hartlaub Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g4 d5 2. e4 dxe4 3. Nc3 e5 4. d3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_38",
+    "title": "Hungarian Opening: Asten Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Hungarian Opening: Asten Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkbnr/ppp3pp/2n5/4Pp2/3pN3/6P1/PPP1PP1P/R1BQKBNR w KQkq f6",
+    "keyMoves": [
+      "g2g3",
+      "b8c6",
+      "b1c3",
+      "d7d5"
+    ],
+    "explanations": [
+      "Hungarian Opening: Asten Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g3 Nc6 2. Nc3 d5 3. d4 e5 4. dxe5 d4 5. Ne4 f5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_39",
+    "title": "Hungarian Opening: Burk Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Hungarian Opening: Burk Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqk1nr/ppp1bppp/8/3p4/4p2N/P2P2P1/1PP1PP1P/RNBQKB1R b KQkq -",
+    "keyMoves": [
+      "g2g3",
+      "e7e5",
+      "a2a3",
+      "d7d5"
+    ],
+    "explanations": [
+      "Hungarian Opening: Burk Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g3 e5 2. a3 d5 3. Nf3 e4 4. Nh4 Be7 5. d3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_40",
+    "title": "Hungarian Opening: B\u00fccker Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Hungarian Opening: B\u00fccker Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp2ppp/8/3pp3/1P6/6P1/P1PPPPBP/RNBQK1NR b KQkq -",
+    "keyMoves": [
+      "g2g3",
+      "d7d5",
+      "f1g2",
+      "e7e5"
+    ],
+    "explanations": [
+      "Hungarian Opening: B\u00fccker Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g3 d5 2. Bg2 e5 3. b4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_41",
+    "title": "Hungarian Opening: Catalan Formation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Hungarian Opening: Catalan Formation (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/8/6P1/PPPPPPBP/RNBQK1NR w KQkq -",
+    "keyMoves": [
+      "g2g3",
+      "d7d5",
+      "f1g2",
+      "e7e6"
+    ],
+    "explanations": [
+      "Hungarian Opening: Catalan Formation (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g3 d5 2. Bg2 e6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_45",
+    "title": "Hungarian Opening: Pachman Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Hungarian Opening: Pachman Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppppp2p/6p1/7Q/4p3/6P1/PPPP1P1P/RNB1KBNR w KQkq -",
+    "keyMoves": [
+      "g2g3",
+      "f7f5",
+      "e2e4",
+      "f5e4"
+    ],
+    "explanations": [
+      "Hungarian Opening: Pachman Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g3 f5 2. e4 fxe4 3. Qh5+ g6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_46",
+    "title": "Hungarian Opening: Paris Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Hungarian Opening: Paris Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rn1qkbnr/ppp2ppp/8/3p4/5p2/6PB/PPPPP2P/RNBQ1RK1 b kq -",
+    "keyMoves": [
+      "g2g3",
+      "e7e5",
+      "g1h3",
+      "d7d5"
+    ],
+    "explanations": [
+      "Hungarian Opening: Paris Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g3 e5 2. Nh3 d5 3. f4 Bxh3 4. Bxh3 exf4 5. O-O.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_48",
+    "title": "Hungarian Opening: Reversed Brooklyn Defense, Brooklyn Benko Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Hungarian Opening: Reversed Brooklyn Defense, Brooklyn Benko Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/pppp1ppp/5n2/8/1P2p3/6P1/P1PPPP1P/RNBQKBNR b KQkq -",
+    "keyMoves": [
+      "g2g3",
+      "e7e5",
+      "g1f3",
+      "e5e4"
+    ],
+    "explanations": [
+      "Hungarian Opening: Reversed Brooklyn Defense, Brooklyn Benko Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g3 e5 2. Nf3 e4 3. Ng1 Nf6 4. b4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_49",
+    "title": "Hungarian Opening: Reversed Modern Defense",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Hungarian Opening: Reversed Modern Defense (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pp2pppp/8/2pp4/8/6P1/PPPPPPBP/RNBQK1NR w KQkq -",
+    "keyMoves": [
+      "g2g3",
+      "d7d5",
+      "f1g2",
+      "c7c5"
+    ],
+    "explanations": [
+      "Hungarian Opening: Reversed Modern Defense (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g3 d5 2. Bg2 c5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_50",
+    "title": "Hungarian Opening: Reversed Norwegian Defense",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Hungarian Opening: Reversed Norwegian Defense (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pppp1ppp/8/8/4p2N/6P1/PPPPPP1P/RNBQKB1R b KQkq -",
+    "keyMoves": [
+      "g2g3",
+      "e7e5",
+      "g1f3",
+      "e5e4"
+    ],
+    "explanations": [
+      "Hungarian Opening: Reversed Norwegian Defense (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g3 e5 2. Nf3 e4 3. Nh4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_52",
+    "title": "Hungarian Opening: Slav Formation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Hungarian Opening: Slav Formation (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pp2pppp/2p5/3p4/8/6P1/PPPPPPBP/RNBQK1NR w KQkq -",
+    "keyMoves": [
+      "g2g3",
+      "d7d5",
+      "f1g2",
+      "c7c6"
+    ],
+    "explanations": [
+      "Hungarian Opening: Slav Formation (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g3 d5 2. Bg2 c6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_54",
+    "title": "Hungarian Opening: Van Kuijk Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Hungarian Opening: Van Kuijk Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppppppp1/8/8/7p/5NP1/PPPPPP1P/RNBQKB1R w KQkq -",
+    "keyMoves": [
+      "g2g3",
+      "h7h5",
+      "g1f3",
+      "h5h4"
+    ],
+    "explanations": [
+      "Hungarian Opening: Van Kuijk Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g3 h5 2. Nf3 h4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_55",
+    "title": "Hungarian Opening: Winterberg Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Hungarian Opening: Winterberg Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp2ppp/8/4p3/2p5/1P4P1/P2PPPBP/RNBQK1NR b KQkq -",
+    "keyMoves": [
+      "g2g3",
+      "d7d5",
+      "f1g2",
+      "e7e5"
+    ],
+    "explanations": [
+      "Hungarian Opening: Winterberg Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. g3 d5 2. Bg2 e5 3. c4 dxc4 4. b3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_60",
+    "title": "K\u00e1das Opening: K\u00e1das Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into K\u00e1das Opening: K\u00e1das Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pp2pppp/8/3p4/3p3P/2P2N2/PP2PPP1/RNBQKB1R b KQkq -",
+    "keyMoves": [
+      "h2h4",
+      "d7d5",
+      "d2d4",
+      "c7c5"
+    ],
+    "explanations": [
+      "K\u00e1das Opening: K\u00e1das Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. h4 d5 2. d4 c5 3. Nf3 cxd4 4. c3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_61",
+    "title": "K\u00e1das Opening: K\u00e1das Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into K\u00e1das Opening: K\u00e1das Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pppp1ppp/8/8/3p3P/2P5/PP2PPP1/RNBQKBNR b KQkq -",
+    "keyMoves": [
+      "h2h4",
+      "e7e5",
+      "d2d4",
+      "e5d4"
+    ],
+    "explanations": [
+      "K\u00e1das Opening: K\u00e1das Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. h4 e5 2. d4 exd4 3. c3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_62",
+    "title": "K\u00e1das Opening: Myers Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into K\u00e1das Opening: Myers Variation (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pp2pppp/8/2pp4/3PP2P/8/PPP2PP1/RNBQKBNR b KQkq -",
+    "keyMoves": [
+      "h2h4",
+      "d7d5",
+      "d2d4",
+      "c7c5"
+    ],
+    "explanations": [
+      "K\u00e1das Opening: Myers Variation (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. h4 d5 2. d4 c5 3. e4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_64",
+    "title": "K\u00e1das Opening: Steinbok Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into K\u00e1das Opening: Steinbok Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppppp1pp/8/8/4p2P/3P4/PPP2PP1/RNBQKBNR b KQkq -",
+    "keyMoves": [
+      "h2h4",
+      "f7f5",
+      "e2e4",
+      "f5e4"
+    ],
+    "explanations": [
+      "K\u00e1das Opening: Steinbok Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. h4 f5 2. e4 fxe4 3. d3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_69",
+    "title": "Mieses Opening: Venezolana Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Mieses Opening: Venezolana Variation (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkbnr/pp1ppppp/2n5/2p5/8/2NP2P1/PPP1PP1P/R1BQKBNR b KQkq -",
+    "keyMoves": [
+      "d2d3",
+      "c7c5",
+      "b1c3",
+      "b8c6"
+    ],
+    "explanations": [
+      "Mieses Opening: Venezolana Variation (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. d3 c5 2. Nc3 Nc6 3. g3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_72",
+    "title": "Polish Opening, with d5",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Polish Opening, with d5 (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/1P6/5N2/PBPPPPPP/RN1QKB1R b KQkq -",
+    "keyMoves": [
+      "b2b4",
+      "d7d5",
+      "c1b2",
+      "g8f6"
+    ],
+    "explanations": [
+      "Polish Opening, with d5 (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b4 d5 2. Bb2 Nf6 3. Nf3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_73",
+    "title": "Polish Opening: Baltic Defense",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Polish Opening: Baltic Defense (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rn1qkbnr/ppp1pppp/8/3p1b2/1P6/8/PBPPPPPP/RN1QKBNR w KQkq -",
+    "keyMoves": [
+      "b2b4",
+      "d7d5",
+      "c1b2",
+      "c8f5"
+    ],
+    "explanations": [
+      "Polish Opening: Baltic Defense (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b4 d5 2. Bb2 Bf5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_75",
+    "title": "Polish Opening: Bugayev Advance Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Polish Opening: Bugayev Advance Variation (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pppp2pp/5p2/1P2p3/8/8/PBPPPPPP/RN1QKBNR b KQkq -",
+    "keyMoves": [
+      "b2b4",
+      "e7e5",
+      "c1b2",
+      "f7f6"
+    ],
+    "explanations": [
+      "Polish Opening: Bugayev Advance Variation (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b4 e5 2. Bb2 f6 3. b5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_77",
+    "title": "Polish Opening: Czech Defense",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Polish Opening: Czech Defense (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp2ppp/3p4/4p3/1P6/8/PBPPPPPP/RN1QKBNR w KQkq -",
+    "keyMoves": [
+      "b2b4",
+      "e7e5",
+      "c1b2",
+      "d7d6"
+    ],
+    "explanations": [
+      "Polish Opening: Czech Defense (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b4 e5 2. Bb2 d6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_79",
+    "title": "Polish Opening: German Defense",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Polish Opening: German Defense (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnb1kbnr/ppp1pppp/3q4/3p4/1P6/8/PBPPPPPP/RN1QKBNR w KQkq -",
+    "keyMoves": [
+      "b2b4",
+      "d7d5",
+      "c1b2",
+      "d8d6"
+    ],
+    "explanations": [
+      "Polish Opening: German Defense (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b4 d5 2. Bb2 Qd6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_82",
+    "title": "Polish Opening: King's Indian Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Polish Opening: King's Indian Variation (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/pppppp1p/5np1/8/1P6/8/PBPPPPPP/RN1QKBNR w KQkq -",
+    "keyMoves": [
+      "b2b4",
+      "g8f6",
+      "c1b2",
+      "g7g6"
+    ],
+    "explanations": [
+      "Polish Opening: King's Indian Variation (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b4 Nf6 2. Bb2 g6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_83",
+    "title": "Polish Opening: King's Indian Variation, Schiffler Attack",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Polish Opening: King's Indian Variation, Schiffler Attack (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/pppppp1p/5np1/8/1P2P3/8/PBPP1PPP/RN1QKBNR b KQkq -",
+    "keyMoves": [
+      "b2b4",
+      "g8f6",
+      "c1b2",
+      "g7g6"
+    ],
+    "explanations": [
+      "Polish Opening: King's Indian Variation, Schiffler Attack (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b4 Nf6 2. Bb2 g6 3. e4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_84",
+    "title": "Polish Opening: King's Indian Variation, Sokolsky Attack",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Polish Opening: King's Indian Variation, Sokolsky Attack (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbq1rk1/ppp1ppbp/3p1np1/8/1PPP4/4PN2/PB3PPP/RN1QKB1R b KQ -",
+    "keyMoves": [
+      "b2b4",
+      "g8f6",
+      "c1b2",
+      "g7g6"
+    ],
+    "explanations": [
+      "Polish Opening: King's Indian Variation, Sokolsky Attack (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b4 Nf6 2. Bb2 g6 3. c4 Bg7 4. e3 d6 5. Nf3 O-O 6. d4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_85",
+    "title": "Polish Opening: Myers Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Polish Opening: Myers Variation (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pp2pppp/2p5/3p4/PP6/8/1BPPPPPP/RN1QKBNR b KQkq -",
+    "keyMoves": [
+      "b2b4",
+      "d7d5",
+      "c1b2",
+      "c7c6"
+    ],
+    "explanations": [
+      "Polish Opening: Myers Variation (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b4 d5 2. Bb2 c6 3. a4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_87",
+    "title": "Polish Opening: Queen's Indian Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Polish Opening: Queen's Indian Variation (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/p1pp1ppp/1p2pn2/1P6/8/8/PBPPPPPP/RN1QKBNR w KQkq -",
+    "keyMoves": [
+      "b2b4",
+      "e7e6",
+      "c1b2",
+      "g8f6"
+    ],
+    "explanations": [
+      "Polish Opening: Queen's Indian Variation (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b4 e6 2. Bb2 Nf6 3. b5 b6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_88",
+    "title": "Polish Opening: Queenside Defense",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Polish Opening: Queenside Defense (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/1ppp1ppp/p3pn2/1P6/8/8/PBPPPPPP/RN1QKBNR w KQkq -",
+    "keyMoves": [
+      "b2b4",
+      "e7e6",
+      "c1b2",
+      "g8f6"
+    ],
+    "explanations": [
+      "Polish Opening: Queenside Defense (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b4 e6 2. Bb2 Nf6 3. b5 a6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_89",
+    "title": "Polish Opening: Rooks Swap Line",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Polish Opening: Rooks Swap Line (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "1nbqkb1r/1ppp1ppp/4pn2/1P6/8/8/2PPPPPP/BN1QKBNR b Kk -",
+    "keyMoves": [
+      "b2b4",
+      "e7e6",
+      "c1b2",
+      "g8f6"
+    ],
+    "explanations": [
+      "Polish Opening: Rooks Swap Line (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b4 e6 2. Bb2 Nf6 3. b5 a6 4. a4 axb5 5. axb5 Rxa1 6. Bxa1.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_90",
+    "title": "Polish Opening: Schiffler-Sokolsky Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Polish Opening: Schiffler-Sokolsky Variation (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/ppp2ppp/4pn2/1P1p4/8/4P3/PBPP1PPP/RN1QKBNR b KQkq -",
+    "keyMoves": [
+      "b2b4",
+      "e7e6",
+      "c1b2",
+      "g8f6"
+    ],
+    "explanations": [
+      "Polish Opening: Schiffler-Sokolsky Variation (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b4 e6 2. Bb2 Nf6 3. b5 d5 4. e3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_91",
+    "title": "Polish Opening: Schuehler Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Polish Opening: Schuehler Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/1p1ppppp/8/pp6/4P3/8/PBPP1PPP/RN1QKBNR b KQkq -",
+    "keyMoves": [
+      "b2b4",
+      "c7c6",
+      "c1b2",
+      "a7a5"
+    ],
+    "explanations": [
+      "Polish Opening: Schuehler Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b4 c6 2. Bb2 a5 3. b5 cxb5 4. e4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_93",
+    "title": "Polish Opening: Tartakower Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Polish Opening: Tartakower Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pppp2pp/5p2/4p3/1P2P3/8/PBPP1PPP/RN1QKBNR b KQkq -",
+    "keyMoves": [
+      "b2b4",
+      "e7e5",
+      "c1b2",
+      "f7f6"
+    ],
+    "explanations": [
+      "Polish Opening: Tartakower Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b4 e5 2. Bb2 f6 3. e4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_94",
+    "title": "Polish Opening: Wolferts Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Polish Opening: Wolferts Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pp1p1ppp/8/2p1p3/1P6/8/PBPPPPPP/RN1QKBNR w KQkq -",
+    "keyMoves": [
+      "b2b4",
+      "e7e5",
+      "c1b2",
+      "c7c5"
+    ],
+    "explanations": [
+      "Polish Opening: Wolferts Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b4 e5 2. Bb2 c5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_97",
+    "title": "Sodium Attack: Celadon Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Sodium Attack: Celadon Variation (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqk1nr/pp3ppp/8/2ppp3/8/P2PP3/P1P2PPP/1RBQKBNR b Kkq -",
+    "keyMoves": [
+      "b1a3",
+      "e7e5",
+      "d2d3",
+      "f8a3"
+    ],
+    "explanations": [
+      "Sodium Attack: Celadon Variation (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Na3 e5 2. d3 Bxa3 3. bxa3 d5 4. e3 c5 5. Rb1.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_99",
+    "title": "Sodium Attack: Durkin Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Sodium Attack: Durkin Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkbnr/pppp2pp/2n5/4pp2/2N1P3/8/PPPP1PPP/R1BQKBNR w KQkq -",
+    "keyMoves": [
+      "b1a3",
+      "e7e5",
+      "a3c4",
+      "b8c6"
+    ],
+    "explanations": [
+      "Sodium Attack: Durkin Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Na3 e5 2. Nc4 Nc6 3. e4 f5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_103",
+    "title": "Van Geet Opening: Billockus-Johansen Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Billockus-Johansen Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqk1nr/pppp1ppp/8/2b1p3/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "e7e5",
+      "g1f3",
+      "f8c5"
+    ],
+    "explanations": [
+      "Van Geet Opening: Billockus-Johansen Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 e5 2. Nf3 Bc5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_104",
+    "title": "Van Geet Opening: Damhaug Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Damhaug Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp2ppp/8/3pp3/5P2/2N5/PPPPP1PP/R1BQKBNR w KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "d7d5",
+      "f2f4",
+      "e7e5"
+    ],
+    "explanations": [
+      "Van Geet Opening: Damhaug Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 d5 2. f4 e5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_105",
+    "title": "Van Geet Opening: Dougherty Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Dougherty Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp1pppp/8/8/4p3/2N2P2/PPPP2PP/R1BQKBNR b KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "d7d5",
+      "e2e4",
+      "d5e4"
+    ],
+    "explanations": [
+      "Van Geet Opening: Dougherty Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 d5 2. e4 dxe4 3. f3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_106",
+    "title": "Van Geet Opening: Dunst-Perrenet Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Dunst-Perrenet Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp1pppp/8/8/4p3/2NP4/PPP2PPP/R1BQKBNR b KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "d7d5",
+      "e2e4",
+      "d5e4"
+    ],
+    "explanations": [
+      "Van Geet Opening: Dunst-Perrenet Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 d5 2. e4 dxe4 3. d3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_108",
+    "title": "Van Geet Opening: Gladbacher Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Gladbacher Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp2ppp/8/4p3/4p3/1PNP4/P1P2PPP/R1BQKBNR b KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "e7e5",
+      "b2b3",
+      "d7d5"
+    ],
+    "explanations": [
+      "Van Geet Opening: Gladbacher Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 e5 2. b3 d5 3. e4 dxe4 4. d3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_109",
+    "title": "Van Geet Opening: Hector Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Hector Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp1pppp/8/8/2B1p3/2N5/PPPP1PPP/R1BQK1NR b KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "d7d5",
+      "e2e4",
+      "d5e4"
+    ],
+    "explanations": [
+      "Van Geet Opening: Hector Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 d5 2. e4 dxe4 3. Bc4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_110",
+    "title": "Van Geet Opening: Hergert Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Hergert Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkbnr/ppp2ppp/2np4/4P3/8/2N5/PPPPP1PP/R1BQKBNR w KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "d7d6",
+      "f2f4",
+      "e7e5"
+    ],
+    "explanations": [
+      "Van Geet Opening: Hergert Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 d6 2. f4 e5 3. fxe5 Nc6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_111",
+    "title": "Van Geet Opening: Hulsemann Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Hulsemann Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rn1qkbnr/ppp2ppp/4b3/3pp2Q/8/2N1P3/PPPP1PPP/R1B1KBNR w KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "e7e5",
+      "e2e3",
+      "d7d5"
+    ],
+    "explanations": [
+      "Van Geet Opening: Hulsemann Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 e5 2. e3 d5 3. Qh5 Be6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_112",
+    "title": "Van Geet Opening: Jendrossek Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Jendrossek Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/pp2p1pp/5n2/2p2p2/1P1p1P2/5N2/P1PPPNPP/R1BQKB1R b KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "d7d5",
+      "f2f4",
+      "d5d4"
+    ],
+    "explanations": [
+      "Van Geet Opening: Jendrossek Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 d5 2. f4 d4 3. Ne4 f5 4. Nf2 Nf6 5. Nf3 c5 6. b4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_113",
+    "title": "Van Geet Opening: Kluever Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Kluever Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppppp1pp/8/8/4p3/2NP4/PPP2PPP/R1BQKBNR b KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "f7f5",
+      "e2e4",
+      "f5e4"
+    ],
+    "explanations": [
+      "Van Geet Opening: Kluever Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 f5 2. e4 fxe4 3. d3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_115",
+    "title": "Van Geet Opening: Liebig Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Liebig Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/ppp2ppp/5n2/3pp2Q/8/2N1P3/PPPP1PPP/R1B1KBNR w KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "e7e5",
+      "e2e3",
+      "d7d5"
+    ],
+    "explanations": [
+      "Van Geet Opening: Liebig Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 e5 2. e3 d5 3. Qh5 Nf6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_116",
+    "title": "Van Geet Opening: Melleby Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Melleby Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pp2pppp/8/2p5/3pNP2/8/PPPPP1PP/R1BQKBNR w KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "d7d5",
+      "f2f4",
+      "d5d4"
+    ],
+    "explanations": [
+      "Van Geet Opening: Melleby Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 d5 2. f4 d4 3. Ne4 c5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_118",
+    "title": "Van Geet Opening: Napoleon Attack",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Napoleon Attack (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/3P4/2N2N2/PPP1PPPP/R1BQKB1R b KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "e7e5",
+      "g1f3",
+      "b8c6"
+    ],
+    "explanations": [
+      "Van Geet Opening: Napoleon Attack (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 e5 2. Nf3 Nc6 3. d4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_119",
+    "title": "Van Geet Opening: Novosibirsk Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Novosibirsk Variation (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkbnr/pp1ppppp/2n5/8/7Q/2N5/PPP1PPPP/R1B1KBNR b KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "c7c5",
+      "d2d4",
+      "c5d4"
+    ],
+    "explanations": [
+      "Van Geet Opening: Novosibirsk Variation (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qh4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_120",
+    "title": "Van Geet Opening: Nowokunski Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Nowokunski Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pppp1ppp/8/8/4Pp2/2N5/PPPP2PP/R1BQKBNR b KQkq e3",
+    "keyMoves": [
+      "b1c3",
+      "e7e5",
+      "f2f4",
+      "e5f4"
+    ],
+    "explanations": [
+      "Van Geet Opening: Nowokunski Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 e5 2. f4 exf4 3. e4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_121",
+    "title": "Van Geet Opening: Pfeiffer Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Pfeiffer Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp2ppp/8/4p3/3pNP2/8/PPPPP1PP/R1BQKBNR w KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "d7d5",
+      "f2f4",
+      "d5d4"
+    ],
+    "explanations": [
+      "Van Geet Opening: Pfeiffer Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 d5 2. f4 d4 3. Ne4 e5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_122",
+    "title": "Van Geet Opening: Pfeiffer Gambit, Sleipnir Countergambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Pfeiffer Gambit, Sleipnir Countergambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp2ppp/8/4p3/3pNP2/5N2/PPPPP1PP/R1BQKB1R b KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "d7d5",
+      "f2f4",
+      "d5d4"
+    ],
+    "explanations": [
+      "Van Geet Opening: Pfeiffer Gambit, Sleipnir Countergambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 d5 2. f4 d4 3. Ne4 e5 4. Nf3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_124",
+    "title": "Van Geet Opening: Reversed Scandinavian",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Reversed Scandinavian (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkbnr/pppp1ppp/2n5/8/Q7/2N5/PPP1PPPP/R1B1KBNR b KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "e7e5",
+      "d2d4",
+      "e5d4"
+    ],
+    "explanations": [
+      "Van Geet Opening: Reversed Scandinavian (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qa4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_125",
+    "title": "Van Geet Opening: Sicilian Two Knights",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Sicilian Two Knights (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkbnr/pp1ppppp/2n5/8/3N4/2N5/PPP1PPPP/R1BQKB1R b KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "c7c5",
+      "g1f3",
+      "b8c6"
+    ],
+    "explanations": [
+      "Van Geet Opening: Sicilian Two Knights (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_126",
+    "title": "Van Geet Opening: Sleipnir Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Sleipnir Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqk1nr/ppp2ppp/8/3pp3/1b1P4/2N1P3/PPP2PPP/R1BQKBNR w KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "d7d5",
+      "e2e3",
+      "e7e5"
+    ],
+    "explanations": [
+      "Van Geet Opening: Sleipnir Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 d5 2. e3 e5 3. d4 Bb4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_129",
+    "title": "Van Geet Opening: Venezolana Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Venezolana Variation (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/8/2NP2P1/PPP1PP1P/R1BQKBNR b KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "d7d5",
+      "d2d3",
+      "g8f6"
+    ],
+    "explanations": [
+      "Van Geet Opening: Venezolana Variation (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 d5 2. d3 Nf6 3. g3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_130",
+    "title": "Van Geet Opening: Warsteiner Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van Geet Opening: Warsteiner Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp1pp1p/8/3p2p1/5P2/2N5/PPPPP1PP/R1BQKBNR w KQkq -",
+    "keyMoves": [
+      "b1c3",
+      "d7d5",
+      "f2f4",
+      "g7g5"
+    ],
+    "explanations": [
+      "Van Geet Opening: Warsteiner Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nc3 d5 2. f4 g5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_132",
+    "title": "Van't Kruijs Opening: Bouncing Bishop Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van't Kruijs Opening: Bouncing Bishop Variation (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/p1pp1ppp/8/1p2p3/8/1B2P3/PPPP1PPP/RNBQK1NR b KQkq -",
+    "keyMoves": [
+      "e2e3",
+      "e7e5",
+      "f1c4",
+      "b7b5"
+    ],
+    "explanations": [
+      "Van't Kruijs Opening: Bouncing Bishop Variation (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. e3 e5 2. Bc4 b5 3. Bb3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_133",
+    "title": "Van't Kruijs Opening: Keoni-Hiva Gambit, Akahi Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van't Kruijs Opening: Keoni-Hiva Gambit, Akahi Variation (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/pppp1ppp/5n2/8/5p2/2N1PN2/PPPP2PP/R1BQKB1R b KQkq -",
+    "keyMoves": [
+      "e2e3",
+      "e7e5",
+      "b1c3",
+      "g8f6"
+    ],
+    "explanations": [
+      "Van't Kruijs Opening: Keoni-Hiva Gambit, Akahi Variation (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. e3 e5 2. Nc3 Nf6 3. f4 exf4 4. Nf3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_134",
+    "title": "Van't Kruijs Opening: Keoni-Hiva Gambit, Alua Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van't Kruijs Opening: Keoni-Hiva Gambit, Alua Variation (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkbnr/pppp1ppp/2n5/8/5p2/2N1PN2/PPPP2PP/R1BQKB1R b KQkq -",
+    "keyMoves": [
+      "e2e3",
+      "e7e5",
+      "b1c3",
+      "b8c6"
+    ],
+    "explanations": [
+      "Van't Kruijs Opening: Keoni-Hiva Gambit, Alua Variation (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. e3 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_135",
+    "title": "Van't Kruijs Opening: Keoni-Hiva Gambit, Ekolu Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Van't Kruijs Opening: Keoni-Hiva Gambit, Ekolu Variation (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp2ppp/8/3p4/5p2/2N1PN2/PPPP2PP/R1BQKB1R b KQkq -",
+    "keyMoves": [
+      "e2e3",
+      "e7e5",
+      "b1c3",
+      "d7d5"
+    ],
+    "explanations": [
+      "Van't Kruijs Opening: Keoni-Hiva Gambit, Ekolu Variation (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. e3 e5 2. Nc3 d5 3. f4 exf4 4. Nf3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_137",
+    "title": "Ware Opening: Cologne Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Ware Opening: Cologne Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkbnr/p1pnpppp/1p6/3p4/P2P4/2N5/1PP1PPPP/R1BQKBNR w KQkq -",
+    "keyMoves": [
+      "a2a4",
+      "b7b6",
+      "d2d4",
+      "d7d5"
+    ],
+    "explanations": [
+      "Ware Opening: Cologne Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. a4 b6 2. d4 d5 3. Nc3 Nd7.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_141",
+    "title": "Ware Opening: Ware Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Ware Opening: Ware Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp3pp/P7/3ppp2/8/4P3/1PPP1PPP/RNBQKBNR b KQkq -",
+    "keyMoves": [
+      "a2a4",
+      "e7e5",
+      "a4a5",
+      "d7d5"
+    ],
+    "explanations": [
+      "Ware Opening: Ware Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. a4 e5 2. a5 d5 3. e3 f5 4. a6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_142",
+    "title": "Ware Opening: Wing Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Ware Opening: Wing Gambit (A00) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rn1qkbnr/pbpppppp/8/1P6/8/8/1PPPPPPP/RNBQKBNR w KQkq -",
+    "keyMoves": [
+      "a2a4",
+      "b7b5",
+      "a4b5",
+      "c8b7"
+    ],
+    "explanations": [
+      "Ware Opening: Wing Gambit (A00) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. a4 b5 2. axb5 Bb7.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A00",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_150",
+    "title": "Nimzo-Larsen Attack: Modern Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Nimzo-Larsen Attack: Modern Variation (A01) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/8/1P6/PBPPPPPP/RN1QKBNR w KQkq -",
+    "keyMoves": [
+      "b2b3",
+      "e7e5",
+      "c1b2",
+      "b8c6"
+    ],
+    "explanations": [
+      "Nimzo-Larsen Attack: Modern Variation (A01) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b3 e5 2. Bb2 Nc6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A01",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_151",
+    "title": "Nimzo-Larsen Attack: Modern Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Nimzo-Larsen Attack: Modern Variation (A01) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/8/1P2P3/PBPP1PPP/RN1QKBNR b KQkq -",
+    "keyMoves": [
+      "b2b3",
+      "e7e5",
+      "c1b2",
+      "b8c6"
+    ],
+    "explanations": [
+      "Nimzo-Larsen Attack: Modern Variation (A01) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b3 e5 2. Bb2 Nc6 3. e3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A01",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_152",
+    "title": "Nimzo-Larsen Attack: Modern Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Nimzo-Larsen Attack: Modern Variation (A01) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/1P6/PB1PPPPP/RN1QKBNR w KQkq -",
+    "keyMoves": [
+      "b2b3",
+      "e7e5",
+      "c1b2",
+      "b8c6"
+    ],
+    "explanations": [
+      "Nimzo-Larsen Attack: Modern Variation (A01) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b3 e5 2. Bb2 Nc6 3. c4 Nf6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A01",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_153",
+    "title": "Nimzo-Larsen Attack: Pachman Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Nimzo-Larsen Attack: Pachman Gambit (A01) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/5P2/1P6/PBPPP1PP/RN1QKBNR b KQkq -",
+    "keyMoves": [
+      "b2b3",
+      "e7e5",
+      "c1b2",
+      "b8c6"
+    ],
+    "explanations": [
+      "Nimzo-Larsen Attack: Pachman Gambit (A01) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b3 e5 2. Bb2 Nc6 3. f4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A01",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_155",
+    "title": "Nimzo-Larsen Attack: Ringelbach Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Nimzo-Larsen Attack: Ringelbach Gambit (A01) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pppp2pp/4p3/5p2/4P3/1P6/PBPP1PPP/RN1QKBNR b KQkq -",
+    "keyMoves": [
+      "b2b3",
+      "f7f5",
+      "c1b2",
+      "e7e6"
+    ],
+    "explanations": [
+      "Nimzo-Larsen Attack: Ringelbach Gambit (A01) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b3 f5 2. Bb2 e6 3. e4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A01",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_156",
+    "title": "Nimzo-Larsen Attack: Spike Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Nimzo-Larsen Attack: Spike Variation (A01) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/pppppp1p/5np1/8/6P1/1P6/PBPPPP1P/RN1QKBNR b KQkq -",
+    "keyMoves": [
+      "b2b3",
+      "g8f6",
+      "c1b2",
+      "g7g6"
+    ],
+    "explanations": [
+      "Nimzo-Larsen Attack: Spike Variation (A01) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. b3 Nf6 2. Bb2 g6 3. g4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A01",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_159",
+    "title": "Bird Opening: Batavo-Polish Attack",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Bird Opening: Batavo-Polish Attack (A02) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/pppppp1p/5np1/8/1P3P2/5N2/P1PPP1PP/RNBQKB1R b KQkq -",
+    "keyMoves": [
+      "f2f4",
+      "g8f6",
+      "g1f3",
+      "g7g6"
+    ],
+    "explanations": [
+      "Bird Opening: Batavo-Polish Attack (A02) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f4 Nf6 2. Nf3 g6 3. b4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A02",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_160",
+    "title": "Bird Opening: Double Duck Formation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Bird Opening: Double Duck Formation (A02) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/ppp1p1pp/8/3p1p2/3P1P2/8/PPP1P1PP/RNBQKBNR w KQkq -",
+    "keyMoves": [
+      "f2f4",
+      "f7f5",
+      "d2d4",
+      "d7d5"
+    ],
+    "explanations": [
+      "Bird Opening: Double Duck Formation (A02) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f4 f5 2. d4 d5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A02",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_163",
+    "title": "Bird Opening: From's Gambit, Langheld Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Bird Opening: From's Gambit, Langheld Gambit (A02) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/ppp2ppp/3P1n2/8/8/8/PPPPP1PP/RNBQKBNR w KQkq -",
+    "keyMoves": [
+      "f2f4",
+      "e7e5",
+      "f4e5",
+      "d7d6"
+    ],
+    "explanations": [
+      "Bird Opening: From's Gambit, Langheld Gambit (A02) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f4 e5 2. fxe5 d6 3. exd6 Nf6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A02",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_164",
+    "title": "Bird Opening: From's Gambit, Lasker Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Bird Opening: From's Gambit, Lasker Variation (A02) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqk1nr/ppp2p1p/3b4/6p1/8/5N2/PPPPP1PP/RNBQKB1R w KQkq -",
+    "keyMoves": [
+      "f2f4",
+      "e7e5",
+      "f4e5",
+      "d7d6"
+    ],
+    "explanations": [
+      "Bird Opening: From's Gambit, Lasker Variation (A02) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A02",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_165",
+    "title": "Bird Opening: From's Gambit, Lipke Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Bird Opening: From's Gambit, Lipke Variation (A02) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqk2r/ppp2ppp/3b3n/8/3P4/5N2/PPP1P1PP/RNBQKB1R b KQkq -",
+    "keyMoves": [
+      "f2f4",
+      "e7e5",
+      "f4e5",
+      "d7d6"
+    ],
+    "explanations": [
+      "Bird Opening: From's Gambit, Lipke Variation (A02) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nh6 5. d4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A02",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_167",
+    "title": "Bird Opening: Hobbs-Zilbermints Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Bird Opening: Hobbs-Zilbermints Gambit (A02) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pppppp2/7p/6p1/5P2/5N2/PPPPP1PP/RNBQKB1R w KQkq -",
+    "keyMoves": [
+      "f2f4",
+      "h7h6",
+      "g1f3",
+      "g7g5"
+    ],
+    "explanations": [
+      "Bird Opening: Hobbs-Zilbermints Gambit (A02) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f4 h6 2. Nf3 g5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A02",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_169",
+    "title": "Bird Opening: Lasker Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Bird Opening: Lasker Gambit (A02) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pppp2pp/5p2/4P3/8/8/PPPPP1PP/RNBQKBNR w KQkq -",
+    "keyMoves": [
+      "f2f4",
+      "e7e5",
+      "f4e5",
+      "f7f6"
+    ],
+    "explanations": [
+      "Bird Opening: Lasker Gambit (A02) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f4 e5 2. fxe5 f6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A02",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_172",
+    "title": "Bird Opening: Platz Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Bird Opening: Platz Gambit (A02) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/ppppnppp/8/4P3/8/8/PPPPP1PP/RNBQKBNR w KQkq -",
+    "keyMoves": [
+      "f2f4",
+      "e7e5",
+      "f4e5",
+      "g8e7"
+    ],
+    "explanations": [
+      "Bird Opening: Platz Gambit (A02) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f4 e5 2. fxe5 Ne7.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A02",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_173",
+    "title": "Bird Opening: Schlechter Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Bird Opening: Schlechter Gambit (A02) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkbnr/pppp1ppp/2n5/4P3/8/8/PPPPP1PP/RNBQKBNR w KQkq -",
+    "keyMoves": [
+      "f2f4",
+      "e7e5",
+      "f4e5",
+      "b8c6"
+    ],
+    "explanations": [
+      "Bird Opening: Schlechter Gambit (A02) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f4 e5 2. fxe5 Nc6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A02",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_174",
+    "title": "Bird Opening: Siegener Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Bird Opening: Siegener Gambit (A02) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pp1p1ppp/8/2p5/3p1P2/2P2N2/PP2P1PP/RNBQKB1R b KQkq -",
+    "keyMoves": [
+      "f2f4",
+      "e7e5",
+      "d2d4",
+      "e5d4"
+    ],
+    "explanations": [
+      "Bird Opening: Siegener Gambit (A02) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f4 e5 2. d4 exd4 3. Nf3 c5 4. c3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A02",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_175",
+    "title": "Bird Opening: Swiss Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Bird Opening: Swiss Gambit (A02) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/ppppp1pp/5n2/8/4pPP1/2N5/PPPP3P/R1BQKBNR b KQkq -",
+    "keyMoves": [
+      "f2f4",
+      "f7f5",
+      "e2e4",
+      "f5e4"
+    ],
+    "explanations": [
+      "Bird Opening: Swiss Gambit (A02) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f4 f5 2. e4 fxe4 3. Nc3 Nf6 4. g4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A02",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_179",
+    "title": "Bird Opening: Lasker Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Bird Opening: Lasker Variation (A03) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/pp2pppp/5n2/2pp4/5P2/4PN2/PPPP2PP/RNBQKB1R w KQkq -",
+    "keyMoves": [
+      "f2f4",
+      "d7d5",
+      "g1f3",
+      "g8f6"
+    ],
+    "explanations": [
+      "Bird Opening: Lasker Variation (A03) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f4 d5 2. Nf3 Nf6 3. e3 c5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A03",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_181",
+    "title": "Bird Opening: Thomas Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Bird Opening: Thomas Gambit (A03) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/pp2pppp/5n2/2p5/3p1P2/1P2PN2/PBPP2PP/RN1QKB1R b KQkq -",
+    "keyMoves": [
+      "f2f4",
+      "d7d5",
+      "b2b3",
+      "g8f6"
+    ],
+    "explanations": [
+      "Bird Opening: Thomas Gambit (A03) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f4 d5 2. b3 Nf6 3. Bb2 d4 4. Nf3 c5 5. e3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A03",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_183",
+    "title": "Bird Opening: Williams Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Bird Opening: Williams Gambit (A03) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/8/4pP2/2N5/PPPPQ1PP/R1B1KBNR b KQkq -",
+    "keyMoves": [
+      "f2f4",
+      "d7d5",
+      "e2e4",
+      "d5e4"
+    ],
+    "explanations": [
+      "Bird Opening: Williams Gambit (A03) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f4 d5 2. e4 dxe4 3. Nc3 Nf6 4. Qe2.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A03",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_184",
+    "title": "Bird Opening: Williams-Zilbermints Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Bird Opening: Williams-Zilbermints Gambit (A03) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/8/4pP2/2N5/PPPPN1PP/R1BQKB1R b KQkq -",
+    "keyMoves": [
+      "f2f4",
+      "d7d5",
+      "e2e4",
+      "d5e4"
+    ],
+    "explanations": [
+      "Bird Opening: Williams-Zilbermints Gambit (A03) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. f4 d5 2. e4 dxe4 3. Nc3 Nf6 4. Nge2.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A03",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_185",
+    "title": "Colle System: Rhamphorhynchus Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Colle System: Rhamphorhynchus Variation (A04) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnb1k1nr/pp1pppbp/6p1/q1P5/8/4PN2/PPP2PPP/RNBQKB1R w KQkq -",
+    "keyMoves": [
+      "g1f3",
+      "c7c5",
+      "e2e3",
+      "g7g6"
+    ],
+    "explanations": [
+      "Colle System: Rhamphorhynchus Variation (A04) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nf3 c5 2. e3 g6 3. d4 Bg7 4. dxc5 Qa5+.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A04",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_186",
+    "title": "Modern Defense: Semi-Averbakh Variation, Polish Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Modern Defense: Semi-Averbakh Variation, Polish Variation (A04) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnb1k1nr/pp1pppbp/1q4p1/2p5/2PPP3/5N2/PP3PPP/RNBQKB1R w KQkq -",
+    "keyMoves": [
+      "g1f3",
+      "c7c5",
+      "c2c4",
+      "g7g6"
+    ],
+    "explanations": [
+      "Modern Defense: Semi-Averbakh Variation, Polish Variation (A04) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nf3 c5 2. c4 g6 3. d4 Bg7 4. e4 Qb6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A04",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_187",
+    "title": "Modern Defense: Semi-Averbakh Variation, Pterodactyl Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Modern Defense: Semi-Averbakh Variation, Pterodactyl Variation (A04) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnb1k1nr/pp1pppbp/6p1/q1p5/2PPP3/5N2/PP3PPP/RNBQKB1R w KQkq -",
+    "keyMoves": [
+      "g1f3",
+      "c7c5",
+      "c2c4",
+      "g7g6"
+    ],
+    "explanations": [
+      "Modern Defense: Semi-Averbakh Variation, Pterodactyl Variation (A04) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nf3 c5 2. c4 g6 3. d4 Bg7 4. e4 Qa5+.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A04",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_188",
+    "title": "Modern Defense: Semi-Averbakh Variation, Pterodactyl Variation Accepted",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Modern Defense: Semi-Averbakh Variation, Pterodactyl Variation Accepted (A04) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnb1k1nr/pp2ppbp/3p2p1/q1P5/2P1P3/5N2/PP3PPP/RNBQKB1R w KQkq -",
+    "keyMoves": [
+      "g1f3",
+      "g7g6",
+      "d2d4",
+      "f8g7"
+    ],
+    "explanations": [
+      "Modern Defense: Semi-Averbakh Variation, Pterodactyl Variation Accepted (A04) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nf3 g6 2. d4 Bg7 3. e4 d6 4. c4 c5 5. dxc5 Qa5+.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A04",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_189",
+    "title": "Zukertort Defense: Kingside Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Zukertort Defense: Kingside Variation (A04) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/pppppp1p/6pn/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq -",
+    "keyMoves": [
+      "g1f3",
+      "g8h6",
+      "d2d4",
+      "g7g6"
+    ],
+    "explanations": [
+      "Zukertort Defense: Kingside Variation (A04) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nf3 Nh6 2. d4 g6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A04",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_190",
+    "title": "Zukertort Defense: Sicilian Knight Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Zukertort Defense: Sicilian Knight Variation (A04) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkbnr/pp1ppppp/n7/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+    "keyMoves": [
+      "g1f3",
+      "b8a6",
+      "e2e4",
+      "c7c5"
+    ],
+    "explanations": [
+      "Zukertort Defense: Sicilian Knight Variation (A04) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nf3 Na6 2. e4 c5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A04",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_193",
+    "title": "Zukertort Opening: Arctic Defense, Drunken Knight Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Zukertort Opening: Arctic Defense, Drunken Knight Variation (A04) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/pppppnpp/5p2/8/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq -",
+    "keyMoves": [
+      "g1f3",
+      "f7f6",
+      "e2e4",
+      "g8h6"
+    ],
+    "explanations": [
+      "Zukertort Opening: Arctic Defense, Drunken Knight Variation (A04) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nf3 f6 2. e4 Nh6 3. d4 Nf7.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A04",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_196",
+    "title": "Zukertort Opening: Drunken Cavalry Variation",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Zukertort Opening: Drunken Cavalry Variation (A04) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "r1bqkb1r/pppppppp/n6n/8/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -",
+    "keyMoves": [
+      "g1f3",
+      "b8a6",
+      "e2e4",
+      "g8h6"
+    ],
+    "explanations": [
+      "Zukertort Opening: Drunken Cavalry Variation (A04) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nf3 Na6 2. e4 Nh6.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A04",
+    "chapterCount": 4
+  },
+  {
+    "id": "mg_topic_201",
+    "title": "Zukertort Opening: Lisitsyn Gambit Deferred",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Zukertort Opening: Lisitsyn Gambit Deferred (A04) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkb1r/ppppp1pp/5n2/5p2/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq -",
+    "keyMoves": [
+      "g1f3",
+      "f7f5",
+      "d2d3",
+      "g8f6"
+    ],
+    "explanations": [
+      "Zukertort Opening: Lisitsyn Gambit Deferred (A04) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nf3 f5 2. d3 Nf6 3. e4.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A04",
+    "chapterCount": 5
+  },
+  {
+    "id": "mg_topic_207",
+    "title": "Zukertort Opening: Shabalov Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Zukertort Opening: Shabalov Gambit (A04) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/3p1ppp/p3p3/1pp5/2P5/2N2NP1/PP1PPP1P/R1BQKB1R w KQkq -",
+    "keyMoves": [
+      "g1f3",
+      "e7e6",
+      "c2c4",
+      "a7a6"
+    ],
+    "explanations": [
+      "Zukertort Opening: Shabalov Gambit (A04) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nf3 e6 2. c4 a6 3. Nc3 c5 4. g3 b5.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A04",
+    "chapterCount": 6
+  },
+  {
+    "id": "mg_topic_210",
+    "title": "Zukertort Opening: Speelsmet Gambit",
+    "category": "Flank & Tactical Openings",
+    "description": "Deep dive into Zukertort Opening: Speelsmet Gambit (A04) featuring strategic plans, key moves, and tactical ideas.",
+    "fen": "rnbqkbnr/pp1ppppp/8/8/3p4/4PN2/PPP2PPP/RNBQKB1R b KQkq -",
+    "keyMoves": [
+      "g1f3",
+      "c7c5",
+      "d2d4",
+      "c5d4"
+    ],
+    "explanations": [
+      "Zukertort Opening: Speelsmet Gambit (A04) is a foundational line emphasizing key central squares and dynamic piece coordination.",
+      "The critical opening move sequence: 1. Nf3 c5 2. d4 cxd4 3. e3.",
+      "Notice the tactical harmony between knights and bishops establishing initiative."
+    ],
+    "eco": "A04",
+    "chapterCount": 5
   }
 ]

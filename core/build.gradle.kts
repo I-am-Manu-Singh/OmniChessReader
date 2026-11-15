@@ -13,12 +13,18 @@ room {
 }
 
 kotlin {
+    jvmToolchain(17)
+
     androidTarget {
         compilerOptions {
             jvmTarget.set(org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_17)
         }
     }
-    jvm("desktop")
+    jvm("desktop") {
+        compilerOptions {
+            jvmTarget.set(org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_17)
+        }
+    }
     iosX64()
     iosArm64()
     iosSimulatorArm64()
@@ -81,7 +87,7 @@ dependencies {
 }
 
 android {
-    namespace = "com.creativeblisslabs.omnimind.core"
+    namespace = "com.creativeblisslabs.omnichessreader.core"
     compileSdk = 35
     defaultConfig {
         minSdk = 24

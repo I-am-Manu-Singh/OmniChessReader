@@ -22,3 +22,13 @@ captures/
 *.pdf
 google-services.json
 GoogleService-Info.plist
+
+# Temp scripts & cloned reference sources
+*.py
+*.png
+*.jpg
+*.ppm
+*.pgm
+living-chess-book-source/
+chess-engine/stockfish-source/
+
